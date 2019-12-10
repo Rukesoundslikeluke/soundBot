@@ -4,4 +4,5 @@ Simple soundbot for discord with user profiles for custom sounds
 
 <b>discord.py<br>
 youtube_dl.py<br>
-mutagen.py</b>
+mutagen.py<br>
+ffmpeg</b>
